@@ -69,7 +69,7 @@ pnpm preview
 ## 🌐 Deployment
 
 The website is deployed to:
-- **Manus:** https://echomenweb-fz7raxkq.manus.space (Primary)
+- 
 - **GitHub Pages:** https://chieji.github.io/echomen-website/
 
 ## 📄 License
